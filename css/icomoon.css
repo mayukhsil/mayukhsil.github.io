@@ -602,6 +602,7 @@
 
 .icon-linkedin-square:before {
   content: "\f08c";
+  color: gray;
 }
 
 .icon-thumb-tack:before {
@@ -1530,7 +1531,7 @@
 
 .icon-instagram:before {
   content: "\f16d";
-  color:white;
+  color:gray;
 }
 
 .icon-flickr:before {
